@@ -1,1 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Project Overview
+
+QuizSphere is a dynamic and engaging mobile-first web application designed to make learning and trivia fun. It will provide users with a platform to take quizzes across a wide variety of topics, track their scores, compete with friends, and even create and share their own quizzes.
